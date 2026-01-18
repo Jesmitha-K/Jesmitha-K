@@ -24,11 +24,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-FF6F61?style=for-the-badge)
 
----
 
-## 📈 GitHub Stats
-
-![Jesmitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jesmitha-K&show_icons=true&theme=radical)
 
 ---
 
